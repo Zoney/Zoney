@@ -1,9 +1,7 @@
 # Welcome to My GitHub Profile 🚀
 
-![An illustration of a programmer working on their laptop with code displayed on a large screen.](ProgrammerIllustration.png)
-
 ## About Me 🤖
-I work as the technology lead in Smia at Egde. I love working with TypeScript atm, but I'm equally enthusiastic about C#, and loves to delve into other things, like Elixir, Rust, Go, etc. 
+I work with AI, and spend way too much time on it atm. I love working with Python and TypeScript atm, but I'm equally enthusiastic about C#, and loves to delve into other things, like Elixir, Rust, Go, etc. 
 Fully engaged in uniting people and technology, I ensure to provide dedicated interdisciplinary teams delivering valuable work that meets customer needs.
 
 ### Likes 💡
